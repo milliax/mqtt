@@ -1,0 +1,4 @@
+{
+    "sketch": "wifi\\wifi.ino",
+    "board": "arduino:avr:uno"
+}
